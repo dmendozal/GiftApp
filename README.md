@@ -1,6 +1,6 @@
 # GiftApp
 
-# This is a web page where you put a category name and you receive 10 items about category
+# This is a web page where you put a category name and you receives 10 items about category
 
 # Getting Started with Create React App
 
