@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba del componente GifGrid debe mostrar el componente correctamente 1`] = `
+<Fragment>
+  <h3
+    className="animate__animated animate__fadeIn"
+  >
+     
+    dragon ball
+     
+  </h3>
+  <div
+    className="card-grid"
+  >
+    <GifGridItem
+      id="abc"
+      key="abc"
+      title="Cualquier cosa"
+      url="http://localhost:8080/cualquier/cosa.jpg"
+    />
+    <GifGridItem
+      id="abc"
+      key="abc"
+      title="Cualquier cosa"
+      url="http://localhost:8080/cualquier/cosa.jpg"
+    />
+  </div>
+</Fragment>
+`;

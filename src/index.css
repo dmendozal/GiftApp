@@ -35,3 +35,7 @@ input {
 .card image {
   max-height: 170px;
 }
+
+.title {
+  font-weight: bold;
+}
